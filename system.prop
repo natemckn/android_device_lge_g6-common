@@ -3,3 +3,6 @@ persist.sys.sf.color_saturation=1.1
 
 # HDR
 ro.qcom.hdr.config=/system/vendor/etc/hdr_tm_config.xml
+
+# Wide cam for all
+vendor.camera.aux.packagelist=all
